@@ -4,8 +4,6 @@ This is a bot that plays Blackjack implemented using TensorFlow. The project was
 ## Motivation
 Blackjack is a solved game, however, I was interested to see if I could solve it again using a TensorFlow as an exercise.
  
-## Screenshots
-Include logo/demo screenshot etc.
 
 ## Tech/framework used
 <b>Built with</b>
